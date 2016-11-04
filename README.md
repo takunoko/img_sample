@@ -49,6 +49,8 @@ CR2(RAW)をCanonのカメラ付属ソフトDigital Photo Professional 4を用い
 
 ### 各画像の情報
 
+※最初に作成した画像です。アップロードした画像については最後に記述いたテーブルの仕様となります。
+
 ImageMagickのコマンドidentifyを利用して各画像の情報をしらべた結果です。  
 (identify <画像ファイル名>)
 ```
